@@ -1,5 +1,3 @@
-# This is a test
-
 test <- read.csv("~/Desktop/franklin.csv")
 exists("test$Type")
 

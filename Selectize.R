@@ -1,5 +1,3 @@
-# This is a test
-
 library(shiny)
 
 ui <- fluidPage(
